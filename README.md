@@ -3,7 +3,6 @@ Author: [it-joe](https://github.com/it-joe)
 
 > My Windows Terminal settings.
 
-## PowerShell
 Includes *settings.json*.
 
 Save to location:
